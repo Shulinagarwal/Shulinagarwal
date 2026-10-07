@@ -77,11 +77,13 @@ A benchmark for secure deployment across two emulated AWS accounts. Tests versio
 - Use execution traces and reproducible cases to explain failures.
 - Report measured results with their scope and limitations.
 
+CS @ LNMIIT Jaipur | LLM evaluation, AI agents & RAG | Python, Terraform, AWS | Building reliable AI systems.
+
 ## Beyond projects
 
 I enjoy competitive programming and cricket.
 
-[LeetCode](https://www.leetcode.com/trizalshulin) · [Codeforces](https://codeforces.com/profile/shulinag) · [Instagram](https://instagram.com/shulinagarwal)
+[LeetCode](https://www.leetcode.com/trizalshulin) · [Codeforces](https://codeforces.com/profile/shulinag)
 
 ---
 
